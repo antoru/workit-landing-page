@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [...](...)
+- Live Site URL: [https://antoru-workit-landing-page.netlify.app/](https://antoru-workit-landing-page.netlify.app/)
 
 ## My process
 
