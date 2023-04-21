@@ -1,0 +1,45 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+//fonts
+$headingFont:'Fraunces 144pt';
+$bodyFont:'Manrope';
+
+$regular:400;
+$medium:500;
+$semibold:600;
+$bold:700;
+
+// colors
+
+$DarkPurple:#24053E;
+$Eucaplyptus: #44ffa1;
+$DavisGrey:#584d62;
+$GhostWhite:#fcf8ff;
+
+$bodyColor:#000000;
+$bodyBackground:#ffffff;
+
+
+
+///breakpoint
+$breakpoint-desktop-min: 1140px;
+$breakpoint-tablet-max: 1139px;
+$breakpoint-tablet-min: 768px;
+$breakpoint-mobile-max: 767px;
+
+// @media(min-width:$breakpoint-desktop-min){}
+// @media(min-width:$breakpoint-tablet-min) and (max-width:$breakpoint-tablet-max){}
+// @media(min-width:$breakpoint-tablet-min)
+// @media(max-width:$breakpoint-tablet-max){}
+// @media(max-width:$breakpoint-mobile-max){}
+
+
+// Common breakpoints are
+
+// 320px — 480px for mobile devices,
+// 481px — 768px for iPads & tablets,
+// 769px — 1024px for small screens like laptop,
+// 1025px — 1200px for large screens like Desktops,
+// and 1201px and above for extra large screens like TV.

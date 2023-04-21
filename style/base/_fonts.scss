@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+
+@font-face {
+    font-family: 'Fraunces 144pt';
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    //src: url('../../assets/fonts/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf');
+    src: url('../../assets/fonts/Fraunces_144pt-SemiBold.ttf');  
+
+    
+}
+
+@font-face {
+    font-family: 'Manrope';
+    font-weight: 1 1000;
+    font-style: normal;
+    font-display: swap;
+    src: url('../../assets/fonts/Manrope-VariableFont_wght.ttf') format('truetype');
+    // src: url('../../assets/fonts/Manrope-Regular.ttf');
+}
+
+
